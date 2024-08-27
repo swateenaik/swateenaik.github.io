@@ -1,3 +1,3 @@
 # swateenaik.github.io
-Swatee Naik's personal page
-Work in progress
+Swatee Naik's Personal Webpage
+(Work in progress)
